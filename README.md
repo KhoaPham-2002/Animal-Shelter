@@ -28,7 +28,7 @@ _ Simple console output for shelter status and adoptions
 
    ```bash
    git clone https://github.com/KhoaPham-2002/Animal-Shelter
-   cd Animal-Shelter-KhoaPham
+   cd Animal-Shelter
    ```
 2. **Compile the files**
    ```bash
