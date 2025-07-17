@@ -27,7 +27,7 @@ _ Simple console output for shelter status and adoptions
 1. **Clone the repo or download the files**
 
    ```bash
-   git clone https://github.com/KhoaPham-2002/Animal-Shelter-KhoaPham
+   git clone https://github.com/KhoaPham-2002/Animal-Shelter
    cd Animal-Shelter-KhoaPham
    ```
 2. **Compile the files**
